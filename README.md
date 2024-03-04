@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👋
 
-I'm Filippos , a dedicated Full-Stack Developer from the vibrant tech city of Zurich. With an original background in Gas Engineering and a dynamic transition to software development, I apply a unique blend of analytical and technical skills to build solutions that resonate with users' needs.
+My name is Filippos , and I’m an aspiring Full Stack Developer with a story rooted not in a lifelong pursuit of technology, but in a serendipitous discovery of a passion that would redefine my professional path. It all began with a simple favor for a friend – the need to build a homepage. Little did I know, this small project would be the catalyst for my deep dive into the world of coding.
 
 ## Connect with Me
 [![LinkedIn Badge](https://img.shields.io/badge/-FilipposTheofanakis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filippos-theofanakis-8a1b50113)](https://www.linkedin.com/in/filippos-theofanakis-8a1b50113)
