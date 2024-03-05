@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👋
 
-My name is Filippos , and I’m an aspiring Full Stack Developer with a story rooted not in a lifelong pursuit of technology, but in a serendipitous discovery of a passion that would redefine my professional path. It all began with a simple favor for a friend – the need to build a homepage. Little did I know, this small project would be the catalyst for my deep dive into the world of coding.
+My name is Filippos, and I’m an aspiring Full Stack Developer with a story rooted not in a lifelong pursuit of technology, but in a serendipitous discovery of a passion that would redefine my professional path. It all began with a simple favor for a friend – the need to build a homepage. Little did I know, this small project would be the catalyst for my deep dive into the world of coding.
 
 ## Connect with Me
 [![LinkedIn Badge](https://img.shields.io/badge/-FilipposTheofanakis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filippos-theofanakis-8a1b50113)](https://www.linkedin.com/in/filippos-theofanakis-8a1b50113)
@@ -8,28 +8,28 @@ My name is Filippos , and I’m an aspiring Full Stack Developer with a story ro
 
 ## Expertise
 #### Front-End
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5 Badge](URL_FOR_HTML5_ICON)
+![CSS3 Badge](URL_FOR_CSS3_ICON)
+![JavaScript Badge](URL_FOR_JAVASCRIPT_ICON)
+![React Badge](URL_FOR_REACT_ICON)
+![Next.js Badge](URL_FOR_NEXTJS_ICON)
+![Tailwind CSS Badge](URL_FOR_TAILWIND_CSS_ICON)
 
 #### Back-End
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-F5820D?style=flat-square&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Node.js Badge](URL_FOR_NODEJS_ICON)
+![Express.js Badge](URL_FOR_EXPRESS_ICON)
+![PostgreSQL Badge](URL_FOR_POSTGRESQL_ICON)
+![Firebase Badge](URL_FOR_FIREBASE_ICON)
+![Supabase Badge](URL_FOR_SUPABASE_ICON)
 
 #### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![yarn](https://img.shields.io/badge/-yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
-![ClickUp](https://img.shields.io/badge/-ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
-![Linear](https://img.shields.io/badge/-Linear-FFCA28?style=flat-square&logo=linear&logoColor=black)
-![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Git Badge](URL_FOR_GIT_ICON)
+![GitHub Badge](URL_FOR_GITHUB_ICON)
+![Visual Studio Code Badge](URL_FOR_VS_CODE_ICON)
+![Yarn Badge](URL_FOR_YARN_ICON)
+![ClickUp Badge](URL_FOR_CLICKUP_ICON)
+![Linear Badge](URL_FOR_LINEAR_ICON)
+![Slack Badge](URL_FOR_SLACK_ICON)
 
 ## Projects
 Check out my work here:
